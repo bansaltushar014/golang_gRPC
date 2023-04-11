@@ -1,6 +1,6 @@
 # Intro 
 
-### This project contains the GRPC connection between a client and server in GoLang. It contains the following functionalities. To know more visit this link ``
+### This project contains the GRPC connection between a client and server in GoLang. It contains the following functionalities. To know more visit this link `https://medium.com/@bansaltushar014/grpc-golang-project-implementation-fc91f64f97c3`
 
 * Simple RPC
 * Server-Side Streaming RPC 
